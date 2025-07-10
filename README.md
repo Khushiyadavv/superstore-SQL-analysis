@@ -11,15 +11,6 @@ This project showcases SQL-driven analysis on the Superstore dataset to uncover 
 - Shipping delays and their effect on profitability
 
 
-| File |                                            Description 
-| `schema.sql`                                     Table creation and data setup 
-| `EDA.sql`                                        Initial exploration and data checks 
-| `profitability_analysis.sql`                     Profits by product, region, segment |
-| `customer_analysis.sql`                          Customer insights and order trends |
-| `discount_impact_analysis.sql                    Effect of discounts on profit |
-| `sales_analysis.sql`                             Sales performance and trends |
-| `shipping_analysis.sql                           Delivery speed and shipping efficiency |
-
 ---
 
 ## 🛠 Tools Used
